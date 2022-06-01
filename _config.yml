@@ -1,10 +1,10 @@
-title:            Jordi Pont-Tuset's site
+title:            Hung-Chang Lin's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //jponttuset.github.io
+url:              //hclin-org.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
-disqus_shortname: jponttuset
+#disqus_shortname: jponttuset
 
 # Owner/author information
 owner:
