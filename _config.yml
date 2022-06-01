@@ -10,7 +10,7 @@ url:              //hclin-org.github.io
 owner:
   name:           Hung-Chang Lin
   avatar:         hclin.jpg
-  bio:            Student of Organization Theory, exploring the interplay of institutionalisms in blockchains. 
+  bio:            Student of organizational theory, exploring 'what makes organizations so similar?' in blockchains (DiMaggio & Powell, 1983)
   email:          linhc@msu.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: jponttuset
@@ -27,14 +27,14 @@ google_analytics: 3601809048
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Curriculum
+  - title: Curriculum Vitae
     url: /cv/
   - title: Publications
     url: /publications/
-  - title: Code
-    url: /code/
-  - title: Blog
-    url: /blog/
+#  - title: Code
+#    url: /code/
+#  - title: Blog
+#    url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Detroit
