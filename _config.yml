@@ -10,17 +10,17 @@ url:              //hclin-org.github.io
 owner:
   name:           Hung-Chang Lin
   avatar:         hclin.jpg
-  bio:            Student of organizational theory, exploring 'what makes organizations so similar?' in blockchains (DiMaggio & Powell, 1983)
+  bio:            Student of organizational theory, exploring 'what makes organizations so similar?' in finance and blockchains
   email:          linhc@msu.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: jponttuset
   linkedin: hungchanglin
   #google_scholar: VCBBx24AAAAJ
   #google_plus: 113718226018314522413
-  github: hclin-org
+  #github: hclin-org
   school_website: linhc
 # Analytics and webmaster tools stuff goes here
-google_analytics: 3601809048
+#google_analytics: 3601809048
 #google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 #bing_verify:
