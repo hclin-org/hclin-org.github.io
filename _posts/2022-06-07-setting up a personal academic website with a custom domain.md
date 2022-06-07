@@ -31,19 +31,18 @@ Later, I clicked **DNS** on the left panel and, subsequently, **Manage custom re
 As I wanted to use apex domain and a www subdomain to reach my website, i.e., people could find my website at both *hclin.org* and *www.hclin.org*, I must add A and CNAME records to my DNS configuration. I also added the AAAA entry for IPv6 compatibility. The purpose of the entries is to make my domain linked to the GitHub servers that house my website.
 
 For the apex domain, the host name was blank, and the type was *A*. I did not change the default TTL. In the data column, I entered the four IPs in respective entries:
->> 185.199.108.153
-185.199.109.153
-185.199.110.153
-185.199.111.153
+- 185.199.108.153
+- 185.199.109.153
+- 185.199.110.153
+- 185.199.111.153
 
 For the www subdomain, I entered *www* in the host name, and the type was *CNAME*. I did not change the default TTL, either. In the data column, I entered *yourgithubid.github.io*.
 
 I also created another entry for IPv6 compatibility. This was similar to the previous type A setting. However, the type should be *AAAA*, instead. The data entries were the four IPv6 addresses: 
-
->> 2606:50c0:8000::153
-2606:50c0:8001::153
-2606:50c0:8002::153
-2606:50c0:8003::153
+- 2606:50c0:8000::153
+- 2606:50c0:8001::153
+- 2606:50c0:8002::153
+- 2606:50c0:8003::153
 
 
 ![setting_domain_04](/images/setting_domain_04.png)
