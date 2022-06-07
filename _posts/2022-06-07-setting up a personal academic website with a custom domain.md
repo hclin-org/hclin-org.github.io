@@ -11,23 +11,17 @@ As Jordi suggested, I forked his website on GitHub, so I had the repository (Jek
 
 ## Adding a custom domain does take multiple steps
 I wanted to use my domain name linking to my website hosted on GitHub Pages. First, I went to my Jekyll repository on GitHub and clicked **setting**. On the left panel, there was **Pages** in the category **Code and automation**. Click it, type your domain in the **Custom Domain**, and save the settings. GitHub suggested I make relevant changes in my domain registrar.
-
-
+<br />
 ![setting_domain_01](/images/setting_domain_01.png)
-
-
+<br />
 As I registered my domain name at Google Domains, I needed to configure the domain records there. If you use Google Domains, the following steps might be helpful. To begin with, I went to the landing page of Google Domains and clicked **manage** to the right of my domain name.
-
-
+<br />
 ![setting_domain_02](/images/setting_domain_02.png)
-
-
+<br />
 Later, I clicked **DNS** on the left panel and, subsequently, **Manage custom records** on the right panel.
-
-
+<br />
 ![setting_domain_03](/images/setting_domain_03.png)
-
-
+<br />
 As I wanted to use apex domain and a www subdomain to reach my website, i.e., people could find my website at both *hclin.org* and *www.hclin.org*, I must add A and CNAME records to my DNS configuration. I also added the AAAA entry for IPv6 compatibility. The purpose of the entries is to make my domain linked to the GitHub servers that house my website.
 
 For the apex domain, the host name was blank, and the type was *A*. I did not change the default TTL. In the data column, I entered the four IPs in respective entries:
@@ -43,9 +37,7 @@ I also created another entry for IPv6 compatibility. This was similar to the pre
 - 2606:50c0:8001::153
 - 2606:50c0:8002::153
 - 2606:50c0:8003::153
-
-
+<br />
 ![setting_domain_04](/images/setting_domain_04.png)
-
-
+<br />
 After saving these settings in Google Domains, I returned to the GitHub settings, and the custom domain worked. I also [verified my domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages) and [enforce HTTPS](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https) to enhance security.
