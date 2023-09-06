@@ -10,12 +10,12 @@ url:              https://hclin.org
 owner:
   name:           Hung-Chang Lin
   avatar:         hclin.jpg
-  bio:            Student of organizational theory, exploring 'what makes organizations so similar?' in finance and blockchains
+  bio:            Student of organizational theory, exploring "Why are there so many kinds of organizations?" and "What makes organizations so similar?" in finance and blockchains
   email:          linhc@msu.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: hclinorg
   linkedin: hungchanglin
-  nostr: npub1zzx7qrxzqzj7r5tyes7jnz0ctf9xe6lnt6sf2czj25jpyx5lustqc9kuk5
+  #nostr: npub1zzx7qrxzqzj7r5tyes7jnz0ctf9xe6lnt6sf2czj25jpyx5lustqc9kuk5
   #google_scholar: VCBBx24AAAAJ
   #google_plus: 113718226018314522413
   #github: hclin-org
