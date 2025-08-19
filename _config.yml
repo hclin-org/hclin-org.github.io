@@ -31,12 +31,16 @@ owner:
 links:
   - title: Curriculum Vitae
     url: /cv/
-  - title: Publications
-    url: /publications/
+#  - title: Publications
+#    url: /publications/
+#  - title: Research Statement
+#    url: /research/
+#  - title: Teaching Statement
+#    url: /teaching/
 #  - title: Code
 #    url: /code/
-  - title: Blog
-    url: /blog/
+#  - title: Blog
+#    url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Detroit
