@@ -13,11 +13,9 @@ owner:
   bio:            Strategic management scholar, exploring leadership, language, and market evaluations
   email:          linhc@msu.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: hclinorg
   linkedin: hungchanglin
-  #nostr: npub1zzx7qrxzqzj7r5tyes7jnz0ctf9xe6lnt6sf2czj25jpyx5lustqc9kuk5
-  #google_scholar: VCBBx24AAAAJ
-  #google_plus: 113718226018314522413
+  ORCID: 0009-0007-1083-4294
+  #google_scholar: 
   #github: hclin-org
   school_website: linhc
 # Analytics and webmaster tools stuff goes here
