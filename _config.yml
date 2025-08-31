@@ -6,7 +6,7 @@ url:              https://hclin.org
 #disqus_shortname: 
 
 # Owner/author information
-owner:
+author:
   name:           Hung-Chang Lin
   avatar:         hclin.jpg
   bio:            Strategic management scholar, exploring leadership, language, and market evaluations
@@ -22,6 +22,14 @@ owner:
 #google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 #bing_verify:
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
 
 # Links to include in top navigation
 # For external links add external: true
