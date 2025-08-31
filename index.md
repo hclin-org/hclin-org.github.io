@@ -5,6 +5,7 @@ description: "Hung-Chang Lin, PhD student in Management at Michigan State Univer
 tags: [Jekyll, theme, responsive, blog, template]
 image:
 feature:
+author_profile: true
 ---
 <p>Welcome! I am a PhD candidate in Strategic Management at <a href="https://www.msu.edu/" target="_blank">Michigan State University</a>, graduating in 2026. My research examines how language shapes audience evaluations in high-stakes settings such as earnings calls. Using a panel of S&P 500 firms, I study how investors interpret executives’ positive and negative tone, emotional displays, and rhetorical strategies.</p>
 <br/>
