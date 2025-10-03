@@ -26,6 +26,8 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Home
+    url: /
   - title: Curriculum Vitae
     url: /cv/
 #  - title: Publications
