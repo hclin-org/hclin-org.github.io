@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: My CV
+title: Curriculum Vitae
 tags: [about]
 modified: 8-7-2014
 comments: false
