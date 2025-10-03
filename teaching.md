@@ -1,8 +1,8 @@
 ---
 layout: post
-permalink: /research/
-title: Research
-tags: research
+permalink: /teaching/
+title: Teaching
+tags: teaching
 modified: 10-2-2025
 comments: false
 ---
