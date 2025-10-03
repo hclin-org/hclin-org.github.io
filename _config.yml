@@ -48,7 +48,8 @@ future:      true
 highlighter: rouge
 markdown:    kramdown
 kramdown:
-  extensions: ["strikethrough"]
+  input: GFM
+  hard_wrap: false
   
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/

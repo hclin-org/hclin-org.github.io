@@ -3,6 +3,7 @@ layout: post
 permalink: /teaching/
 title: Teaching
 tags: teaching
+date: 2-10-2025
 modified: 2-10-2025
 comments: false
 ---
