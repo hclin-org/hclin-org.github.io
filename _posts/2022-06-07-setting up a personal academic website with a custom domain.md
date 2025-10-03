@@ -5,8 +5,7 @@ description: "My experience with GitHub Pages, Jekyll, and custom domain configu
 date: 7-6-2022
 modified: 3-10-2025 
 ---
-Update: Google Domains, the domain service I used, became part of Squarespace. But the logic is still the same. Happy building!
-
+Update: Google Domains, the domain service I used, became part of Squarespace. But the logic is still the same. Happy building!  
 
 I have longed for a personal academic website to share my CV and research interests. However, I did not know what to do with this idea because it looked challenging to balance cost and performance. On the one hand, as a PhD student, I hesitated to subscribe to hosting services, which is typically $5 to $10 per month, on top of $10 to $20 for a custom domain per annum. On the other hand, I do not feel confident in managing the technical parts of self-hosting, particularly keeping my website from security vulnerabilities. This summer, I came across the idea of combining GitHub Pages, the free web hosting, with Jekyll, the static site generator. I decided to give it a try as it incurs minimal monetary and time costs and delivers great performance. Also, it allows for custom domains. I based my experiment on the manual by [Jordi Pont-Tuset](https://jponttuset.cat/building-an-academic-website/). To configure my personal domain, I referred to the instructions of [GitHub Docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) and [Google Domains](https://domains.google.com). Below, I will share some of the glitches I encountered and how I solved them, and I hope these may be helpful for configuring a Jekyll website on GitHub Pages with custom domains.
 
