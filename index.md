@@ -4,12 +4,12 @@ title: Hung-Chang Lin
 description: "Hung-Chang Lin, PhD student in Management at Michigan State University, Eli Broad College of Business"
 tags: [Jekyll, theme, responsive, blog, template]
 date: 2-10-2025
-modified: 2-10-2025
+modified: 29-6-2026
 image:
 feature:
 author_profile: true
 ---
-<p>Welcome! I am a PhD candidate in Strategic Management at <a href="https://www.msu.edu/" target="_blank">Michigan State University</a>, graduating in 2026. My research examines how language shapes audience evaluations in high-stakes settings such as earnings calls. Using a panel of S&P 500 firms, I study how investors interpret executives’ positive and negative tone, emotional displays, and rhetorical strategies.</p>
+<p>Welcome! I recently received my PhD in Strategic Management from <a href="https://www.msu.edu/" target="_blank">Michigan State University</a>. My research examines how language shapes audience evaluations in high-stakes settings such as earnings calls. Using a panel of S&P 500 firms, I study how investors interpret executives’ positive and negative tone, emotional displays, and rhetorical strategies.</p>
 <br/>
 <p>My work challenges common assumptions in the executive communication research on sentiment—(1) that the sentiment executives express is a passive reflection of firm fundamentals or an active strategic tool to manage impression, (2) that sentiment is reducible to binary valence categories—positive or negative, (3) that positive and negative sentiment exert symmetric effects, (4) that audiences interpret sentiment at face value. Broadly, I develop a critical and context-sensitive theory of strategic communication that sheds light on how firms can communicate more effectively with stakeholders and improve performance.</p>
 <br/>
