@@ -4,7 +4,7 @@ title: Hung-Chang Lin
 description: "Hung-Chang Lin, PhD student in Management at Michigan State University, Eli Broad College of Business"
 tags: [Jekyll, theme, responsive, blog, template]
 date: 2-10-2025
-modified: 29-6-2026
+modified: 24-7-2026
 image:
 feature:
 author_profile: true
